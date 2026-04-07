@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=200&section=header&text=Tim%20Pugh&fontSize=70&fontColor=ffffff&desc=Designated%20Support%20Engineer%20%E2%80%A2%20Lambda%20SME%20%40%20AWS&descSize=20&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6CA8,100:0A2F6B&height=200&section=header&text=Tim%20Pugh&fontSize=70&fontColor=ffffff&desc=Designated%20Support%20Engineer%20%E2%80%A2%20Lambda%20SME%20%40%20AWS&descSize=20&descAlignY=75" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pugh/)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=timpugh.timpugh)
@@ -64,4 +64,4 @@ _CI/CD_
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2F6B,100:1B6CA8&height=100&section=footer" width="100%"/>
