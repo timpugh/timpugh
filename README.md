@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6CA8,100:0A2F6B&height=200&section=header&text=Tim%20Pugh&fontSize=70&fontColor=ffffff&desc=Designated%20Support%20Engineer%20%E2%80%A2%20Lambda%20SME%20%40%20AWS&descSize=20&descAlignY=75" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B6CA8,100:0A2F6B&height=200&section=header&text=Tim%20Pugh&fontSize=70&fontColor=ffffff&desc=Domain%20Specialist%20Engineer%20%E2%80%A2%20Lambda%20SME%20%40%20AWS&descSize=20&descAlignY=75" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pugh/)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=timpugh.timpugh)
@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a **Designated Support Engineer & Lambda Subject Matter Expert** at **Amazon Web Services**, with a Bachelor's degree in Computer Science. I specialize in helping enterprise customers architect, troubleshoot, and optimize their AWS environments.
+I'm a **Domain Specialist Engineer & Lambda Subject Matter Expert** at **Amazon Web Services**, with a Bachelor's degree in Computer Science. I specialize in helping enterprise customers architect, troubleshoot, and optimize their AWS environments.
 
 ---
 
